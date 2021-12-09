@@ -1,4 +1,4 @@
-<h1>Typography Poster</h1>
+<h1>Typography Poster (summer 2021)</h1>
 <p>This project was done as part of my Introduction to Typography summer course with the Rhode Island School of Design. The assignment was to demonstrate the principles of typography with a theme of our choosing, for an audience that is new to typographic concepts.
 
 <h2>Credits</h2>
